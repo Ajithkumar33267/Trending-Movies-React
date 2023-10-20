@@ -9,6 +9,7 @@ MovieApiKey.js
 
 # testing
 /coverage
+.env
 
 # production
 /build
